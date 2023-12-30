@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">get Started With Compose</string>
+    <string name="title_activity_task">TaskActivity</string>
+    <string name="title_activity_kuadran_text">KuadranTextActivity</string>
+    <string name="title_activity_code_solution">CodeSolutionActivity</string>
+    <string name="title_activity_card_name">CardNameActivity</string>
+</resources>
